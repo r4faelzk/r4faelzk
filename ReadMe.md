@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Desenvolvimento de Sistemas<br>⚡ Desenvolvedor Front End
+🔭 Estudante de Desenvolvimento de Sistemas
 
 <br>
 
